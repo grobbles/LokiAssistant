@@ -28,7 +28,7 @@ classifiers = [
 
 setuptools.setup(
     name="loki-assistant",
-    version="0.0.1",
+    version="0.0.2",
     author="Uwe Roder",
     author_email="uweroder@gmail.com",
     description="The LokiAssistant lib is a small tool to push logging to Loki server.",
