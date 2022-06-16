@@ -65,7 +65,6 @@ class LokiAssistant:
         pass
 
     def _push_runner(self):
-        self._log.info(f"start loki push thread")
         while True:
             try:
                 if len(self._message_cache) > 0:
