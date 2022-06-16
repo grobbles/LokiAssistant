@@ -1,8 +1,10 @@
 # Loki Assistant
 
 ![Build](https://github.com/grobbles/LokiAssistant/actions/workflows/release.yml/badge.svg)
-[![PyPi version](https://badgen.net/pypi/v/loki-assistant/)](https://pypi.com/project/SmartSignals)
+[![PyPi version](https://badgen.net/pypi/v/loki-assistant/)](https://pypi.com/project/loki-assistant/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/pybadges.svg)](https://pypi.python.org/pypi/loki-assistant/)
+[![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/loki-assistant/)
 
 The Loki Assistant has been created to send log messages to the LOKI server. The labels can be specified individually.
 
